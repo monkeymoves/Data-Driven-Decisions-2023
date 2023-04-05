@@ -13,7 +13,7 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're D3: Data Driven Decisions<span className="fancy">.</span>
+            Hi, We are D3: Data Driven Decisions<span className="fancy">.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
           <h2>A digital agency for the modern age.</h2>
